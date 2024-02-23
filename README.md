@@ -21,7 +21,7 @@ git clone https://github.com/Keerthybaby/React.git
 cd React
 ```
 
-3. To access the code for a specific episode or exercise, follow these steps:
+3. To access the code for a specific exercise, follow these steps:
 
    - Navigate to the "Branch" dropdown menu above the file list.
    - Select the branch corresponding to the exercise you're interested in.
